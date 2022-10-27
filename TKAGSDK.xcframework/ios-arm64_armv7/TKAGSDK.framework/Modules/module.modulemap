@@ -1,0 +1,6 @@
+framework module TKAGSDK {
+  umbrella header "TKAGSDK.h"
+
+  export *
+  module * { export * }
+}
